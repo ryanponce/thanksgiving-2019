@@ -1,14 +1,13 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "thanksgiving-2019",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "A Ponce Thanksgiving. 2019 Edition.",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Ryan Ponce <ryan@ponce.la>",
   "dependencies": {
-    "gatsby": "^2.17.11",
+    "gatsby": "2.18.1",
     "gatsby-image": "^2.2.31",
     "gatsby-plugin-manifest": "^2.2.27",
-    "gatsby-plugin-offline": "^3.0.19",
     "gatsby-plugin-react-helmet": "^3.1.14",
     "gatsby-plugin-sharp": "^2.2.37",
     "gatsby-source-filesystem": "^2.1.36",

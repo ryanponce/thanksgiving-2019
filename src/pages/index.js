@@ -60,8 +60,8 @@ const IndexPage = () => (
 
     <p style={{ fontSize: "1.5rem", marginTop: "1rem" }}>
       There should be a lot of parking since most likely no one will be Downtown
-      (no one is truely from here so they all go back home). Parking is
-      available in the front or on the side of the building.
+      (no one is truly from here so they all go back home). Parking is available
+      in the front or on the side of the building.
     </p>
 
     <footer style={{ fontSize: "1.5rem", marginTop: "4rem" }}>
